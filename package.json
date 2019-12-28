@@ -1,0 +1,14 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "moo",
+  "main": "spotifyclient.js",
+  "scripts": {
+    "start": "electron ."
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
+}
