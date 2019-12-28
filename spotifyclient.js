@@ -13,7 +13,7 @@ function createWindow(){
             nodeIntegration: false
         }
     })
-    win.loadURL('https://krunker.io')
+    win.loadURL('https://open.spotify.com/') //make sure URL of it is directly linked to spotify's web based player!
 
     win.on('closed', () => {
         win = null;
